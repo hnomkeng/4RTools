@@ -327,6 +327,7 @@ namespace _4RTools.Model
                 new Buff("Poção Mágica", EffectStatusIDs.EFST_DRACULA_CARD, Resources._4RTools.Icons.pocao_magica),
                 new Buff("True ASPD Intensifying Potion", EffectStatusIDs.EFST_REUSE_LIMIT_ASPD_POTION, Resources._4RTools.Icons.G_ASPD_Potion),
                 new Buff("True Medium Life Potion", EffectStatusIDs.EFST_L_LIFEPOTION, Resources._4RTools.Icons.g_med_life_potion),
+                new Buff("Kafra Buff", EffectStatusIDs.EFST_PERIOD_RECEIVEITEM_2ND, Resources._4RTools.Icons.g_med_life_potion),
             };
 
             return skills;

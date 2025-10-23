@@ -271,6 +271,9 @@ namespace _4RTools.Utils
 
         // Third Class
 
+        EFST_PERIOD_RECEIVEITEM_2ND = 1084,
+        EFST_PERIOD_PLUSEXP_2ND = 1085,
+
         // Fourth Class
         // [Arch Mage](https://irowiki.org/wiki/Arch_Mage)
         EFST_CLIMAX = 1152,
